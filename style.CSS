@@ -1,0 +1,11 @@
+body{
+    background-color: #24b4f7;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    }
+    .menu{
+        text-align: center;
+        }
